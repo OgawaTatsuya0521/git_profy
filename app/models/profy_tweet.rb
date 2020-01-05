@@ -1,0 +1,2 @@
+class ProfyTweet < ApplicationRecord
+end
